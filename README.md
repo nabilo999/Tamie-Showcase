@@ -1,7 +1,7 @@
 # Tamie 
 > *Your personal time architect — generate, customize, and optimize your life schedule.*
 
-<img align="center" src="logo_tamie.png" width="50%"><br>
+<img align="center" src="logo_tamie_2.png" width="50%"><br>
 
 ---
 

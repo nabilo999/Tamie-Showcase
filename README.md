@@ -1,7 +1,7 @@
 # Tamie 
 > *Your personal time architect — generate, customize, and optimize your life schedule.*
 
-![Hero Image](tamie_pic_3.PNG)
+![Hero Image](logo_tamie.PNG)
 
 ---
 
@@ -62,19 +62,24 @@ AI: I found a 30-minute window after dinner three days a week — want me to add
 
 ## 🖼️ Image Gallery 
 
-<table style="width:100%; border:none;">
-    <tr>
-        <td style="padding: 5px; border: none; text-align: center;">
-            <img src="tamie_pic_2" alt="Description 1" width="100%">
-        </td>
-        <td style="padding: 5px; border: none; text-align: center;">
-            <img src="tamie_pic_3" alt="Description 2" width="100%">
-        </td>
-        <td style="padding: 5px; border: none; text-align: center;">
-            <img src="tamie_pic_4" alt="Description 3" width="100%">
-        </td>
-        <td style="padding: 5px; border: none; text-align: center;">
-            <img src="tamie_pic_5" alt="Description 4" width="100%">
-        </td>
-    </tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="tamie_pic_2.PNG" width="250"><br>
+      <b>Survey Flow</b>
+    <td align="center">
+      <img src="tamie_pic_3.PNG" width="250"><br>
+      <b>Schedule Overview</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="tamie_pic_4.PNG" width="250"><br>
+      <b>Saved Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="tamie_pic_4.PNG" width="250"><br>
+      <b>Conflict handeling</b>
+    </td>
+  </tr>
 </table>

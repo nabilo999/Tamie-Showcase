@@ -14,8 +14,6 @@ Once your schedule is created, an integrated AI assistant helps you **tweak, reb
 > “Find me time to write one page a day.”  
 > “Shift my gym sessions to mornings instead.”
 
-![AI Conversation Mockup](./images/ai-chat-tweak.png)
-
 ---
 
 ## ⚙️ Core Features  
@@ -24,8 +22,6 @@ Once your schedule is created, an integrated AI assistant helps you **tweak, reb
 - Answer simple questions about your **commitments**, **goals**, and **energy levels**.  
 - Automatically generates a realistic, balanced weekly schedule.  
 - Optional “invisible buffers” for meals and commutes keep things realistic without cluttering the view.  
-
-![Survey Screenshot](./images/survey-flow.png)
 
 ---
 
@@ -63,3 +59,22 @@ AI: I found a 30-minute window after dinner three days a week — want me to add
 | **Optional Integrations** | Google Calendar API, Notion Sync, iCal Export |
 
 ---
+
+## 🖼️ Image Gallery 
+
+<table style="width:100%; border:none;">
+    <tr>
+        <td style="padding: 5px; border: none; text-align: center;">
+            <img src="tamie_pic_2" alt="Description 1" width="100%">
+        </td>
+        <td style="padding: 5px; border: none; text-align: center;">
+            <img src="tamie_pic_3" alt="Description 2" width="100%">
+        </td>
+        <td style="padding: 5px; border: none; text-align: center;">
+            <img src="tamie_pic_4" alt="Description 3" width="100%">
+        </td>
+        <td style="padding: 5px; border: none; text-align: center;">
+            <img src="tamie_pic_5" alt="Description 4" width="100%">
+        </td>
+    </tr>
+</table>

@@ -1,7 +1,7 @@
 # Tamie 
 > *Your personal time architect — generate, customize, and optimize your life schedule.*
 
-![Hero Image](logo_tamie.PNG)
+<img align="center" src="tamie_pic_4.PNG" width="50%"><br>
 
 ---
 
@@ -65,20 +65,20 @@ AI: I found a 30-minute window after dinner three days a week — want me to add
 <table align="center">
   <tr>
     <td align="center">
-      <img src="tamie_pic_2.PNG" width="250"><br>
+      <img src="tamie_pic_2.PNG" width="400"><br>
       <b>Survey Flow</b>
     <td align="center">
-      <img src="tamie_pic_3.PNG" width="250"><br>
+      <img src="tamie_pic_3.PNG" width="400"><br>
       <b>Schedule Overview</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="tamie_pic_4.PNG" width="250"><br>
+      <img src="tamie_pic_4.PNG" width="400"><br>
       <b>Saved Dashboard</b>
     </td>
     <td align="center">
-      <img src="tamie_pic_4.PNG" width="250"><br>
+      <img src="tamie_pic_4.PNG" width="400"><br>
       <b>Conflict handeling</b>
     </td>
   </tr>

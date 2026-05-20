@@ -1,5 +1,5 @@
 # Tamie (Work in Progress 🚧🔨👷‍♂️🏗️🚧)
-Your personal time architect — generate, customize, and optimize your life schedule.*
+Your personal time architect generate, customize, and optimize your life schedule.*
 
 <img align="center" src="logo_tamie.png" width="50%"><br>
 
